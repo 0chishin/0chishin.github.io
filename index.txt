@@ -1,0 +1,10 @@
+<HTML>
+<HEAD>2020高知愛媛<HEAD>
+<TITLE></TITLE>
+</HEAD>
+15
+<BODY>
+<H3>はじめてのHTMLです。越智慎之介です。</H3>
+HTMLの文書。初めまして
+</BODY>
+</HTML>
